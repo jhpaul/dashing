@@ -1,6 +1,6 @@
 i=1
 SCHEDULER.every '5s' do
-	
+	print Dir.pwd
 	if i == 1
 		send_event('welcome', { text: "Hello"})
 		i=2

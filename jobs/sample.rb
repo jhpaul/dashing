@@ -13,6 +13,7 @@ SCHEDULER.every '2s' do
 end
 i=1
 SCHEDULER.every '5s' do
+	
 	if i == 1
 		send_event('welcome', { text: "Hello"})
 		i=2
