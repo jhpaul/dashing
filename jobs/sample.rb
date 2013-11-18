@@ -11,3 +11,16 @@ SCHEDULER.every '2s' do
   send_event('karma', { current: current_karma, last: last_karma })
   send_event('synergy',   { value: rand(100) })
 end
+i=1
+SCHEDULER.every '5s' do
+	if i == 1
+		send_event('welcome', { text: "Hello"})
+		i=2
+		break
+	end
+	if i == 2
+		send_event('welcome', { text: "Goodbye"})
+		i=1
+		break
+	end
+end

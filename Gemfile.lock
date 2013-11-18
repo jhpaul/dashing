@@ -64,6 +64,7 @@ GEM
       simple_oauth (~> 0.2)
     tzinfo (1.1.0)
       thread_safe (~> 0.1)
+    xml-simple (1.1.2)
 
 PLATFORMS
   ruby
@@ -71,3 +72,4 @@ PLATFORMS
 DEPENDENCIES
   dashing
   twitter
+  xml-simple
