@@ -2,7 +2,7 @@
 $(function() {
   // These settings override the defaults set in application.coffee. You can do this on a per dashboard basis.
   //Dashing.gridsterLayout('[{"col":2,"row":1},{"col":1,"row":1},{"col":3,"row":1},{"col":2,"row":2},{"col":3,"row":2},{"col":1,"row":2},{"col":5,"row":1},{"col":4,"row":2},{"col":2,"row":3}]')
-  Dashing.widget_base_dimensions = [370, 340]
+  Dashing.widget_base_dimensions = [370, 170]
   Dashing.numColumns = 6
 });
 </script>
@@ -12,22 +12,34 @@ $(function() {
 
 <div class="gridster">
 	<ul>
-    <li data-row="2" data-col="1" data-sizex="2" data-sizey="1">
+    <li data-row="4" data-col="1" data-sizex="2" data-sizey="2">
       <div data-view="Clock"></div>
       <i class="icon-time icon-background"></i>
     </li>
 
-    <li data-row="1" data-col="1" data-sizex="2" data-sizey="1">
+    <li data-row="1" data-col="1" data-sizex="2" data-sizey="2">
       <div data-view="Image" data-image="/logo-riphil.png" style="background-color:#C2E0FF;"></div>
     </li>
 
-	<li data-row="3" data-col="1" data-sizex="2" data-sizey="1">
+	<li data-row="5" data-col="1" data-sizex="2" data-sizey="2">
   		<div data-id="forecast" data-view="Forecast" data-widget_title="<img src='http://forecast.io/favicon.ico' />Weather Forecast"> ></div>
 	</li>
 
-  <li data-row="1" data-col="2" data-sizex="2" data-sizey="1">
-      <div data-id="twitter_mentions" data-view="Comments" style="background-color:#ff9618;" data-moreinfo="Tweets tagged with #todayilearned"></div>
-      <i class="icon-twitter icon-background"></i>
+  <li data-row="1" data-col="3" data-sizex="2" data-sizey="1">
+      <div data-id="twitter_mentions-0" data-view="Tweet" style="" data-moreinfo=""></div>
+      <!-- <i class="icon-twitter icon-background"></i> -->
   </li>
+    <li data-row="2" data-col="3" data-sizex="2" data-sizey="1">
+      <div data-id="twitter_mentions-1" data-view="Tweet" style="" data-moreinfo=""></div>
+     
+  </li>
+  <li data-row="1" data-col="1" data-sizex="2" data-sizey="1">
+  <div data-id="calendar_events" data-pre="0" data-view="Calendar"></div>
+</li>
+
+<li data-row="1" data-col="1" data-sizex="2" data-sizey="1">
+  <div data-id="calendar_events" data-pre="1"  data-view="Calendar"></div>
+</li>
+
     </ul>
 </div>
