@@ -1,0 +1,76 @@
+---
+valuation: ! 'data: {"current":94,"last":70,"id":"valuation","updatedAt":1384880478}
+
+
+'
+karma: ! 'data: {"current":19847,"last":102390,"id":"karma","updatedAt":1384880478}
+
+
+'
+synergy: ! 'data: {"value":47,"id":"synergy","updatedAt":1384880478}
+
+
+'
+convergence: ! 'data: {"points":[{"x":66,"y":19},{"x":67,"y":7},{"x":68,"y":47},{"x":69,"y":44},{"x":70,"y":39},{"x":71,"y":11},{"x":72,"y":18},{"x":73,"y":7},{"x":74,"y":43},{"x":75,"y":14}],"id":"convergence","updatedAt":1384880478}
+
+
+'
+buzzwords: ! 'data: {"items":[{"label":"Paradigm shift","value":6},{"label":"Pivoting","value":7},{"label":"Web
+  2.0","value":6},{"label":"Enterprise","value":6},{"label":"Streamlininess","value":11},{"label":"Turn-key","value":9},{"label":"Leverage","value":8},{"label":"Exit
+  strategy","value":8},{"label":"Synergy","value":4}],"id":"buzzwords","updatedAt":1384880478}
+
+
+'
+welcome: ! 'data: {"text":"Hello","id":"welcome","updatedAt":1384790695}
+
+
+'
+weather: ! 'data: {"temp":"44&deg;F","condition":"Fair","title":"East Providence Weather","climacon":"sun","id":"weather","updatedAt":1384880478}
+
+
+'
+forecast: ! 'data: {"current_temp":"44&deg;","current_icon":"clear-day","current_desc":"Clear","next_icon":"clear-day","next_desc":"Clear
+  for the hour.","later_icon":"partly-cloudy-day","later_desc":"Partly cloudy tomorrow
+  morning.","tom_icon":"partly-cloudy-night","tom_desc":"Partly cloudy overnight.","tom_high":"40&deg;","tom_low":"28&deg;","id":"forecast","updatedAt":1384880348}
+
+
+'
+twitter_mentions: ! 'data: {"comments":[{"name":"RI Philharmonic","body":"@Projo had
+  some interesting thoughts, and some good and bad things to say.  Tweet back your
+  input\nhttp://t.co/5UcDDy3qAd","avatar":"https://pbs.twimg.com/profile_images/1268875645/clef_294_normal.JPG"},{"name":"RI
+  Philharmonic","body":"http://t.co/tMhCSgRass Vince Burks talks Amica Rush Hour concerts-
+  Got your tickets yet?","avatar":"https://pbs.twimg.com/profile_images/1268875645/clef_294_normal.JPG"}],"id":"twitter_mentions","updatedAt":1384820153}
+
+
+'
+twitter_mentions-0: ! 'data: {"tweet":{"name":"RI Philharmonic","body":"@Projo had
+  some interesting thoughts, and some good and bad things to say.  Tweet back your
+  input\nhttp://t.co/5UcDDy3qAd","avatar":"https://pbs.twimg.com/profile_images/1268875645/clef_294_normal.JPG"},"id":"twitter_mentions-0","updatedAt":1384880478}
+
+
+'
+twitter_mentions-1: ! 'data: {"tweet":{"name":"RI Philharmonic","body":"http://t.co/tMhCSgRass
+  Vince Burks talks Amica Rush Hour concerts- Got your tickets yet?","avatar":"https://pbs.twimg.com/profile_images/1268875645/clef_294_normal.JPG"},"id":"twitter_mentions-1","updatedAt":1384880478}
+
+
+'
+twitter_mentions-2: ! 'data: {"comments":[{"name":"RI Philharmonic","body":"@Projo
+  had some interesting thoughts, and some good and bad things to say.  Tweet back
+  your input\nhttp://t.co/5UcDDy3qAd","avatar":"https://pbs.twimg.com/profile_images/1268875645/clef_294_normal.JPG"},{"name":"RI
+  Philharmonic","body":"http://t.co/tMhCSgRass Vince Burks talks Amica Rush Hour concerts-
+  Got your tickets yet?","avatar":"https://pbs.twimg.com/profile_images/1268875645/clef_294_normal.JPG"},{"name":"RI
+  Philharmonic","body":"Check out Larry conducting the Rochester Philharmonic Orchestra!  What
+  do you think of the Program? @DandC http://t.co/1y4sgZdisT","avatar":"https://pbs.twimg.com/profile_images/1268875645/clef_294_normal.JPG"},{"name":"RI
+  Philharmonic","body":"Pawtucket Pops is THIS SUNDAY 5:30pm at Slater Park! Come
+  hear @riphil play 1812 Overture, Jurassic Park, Phantom of the Opera &amp; more!","avatar":"https://pbs.twimg.com/profile_images/1268875645/clef_294_normal.JPG"},{"name":"RI
+  Philharmonic","body":"Bristol Pops is THIS SUNDAY 6:30pm at Independence Park! Come
+  hear @riphil play 1812 Overture, Jurassic Park, Phantom of the Opera &amp; more!","avatar":"https://pbs.twimg.com/profile_images/1268875645/clef_294_normal.JPG"},{"name":"RI
+  Philharmonic","body":"Congrats to RIPMS alum Richard Marchetti on his selection
+  as a quarter finalist in the GRAMMY Music Educator Awards. As a native Rhode...","avatar":"https://pbs.twimg.com/profile_images/1268875645/clef_294_normal.JPG"}],"id":"twitter_mentions-2","updatedAt":1384819319}
+
+
+'
+calendar_events: ! 'data: {"events":[],"id":"calendar_events","updatedAt":1384880408}
+
+
+'
