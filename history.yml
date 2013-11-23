@@ -1,23 +1,22 @@
 ---
-valuation: ! 'data: {"current":94,"last":70,"id":"valuation","updatedAt":1384880478}
+valuation: ! 'data: {"current":81,"last":29,"id":"valuation","updatedAt":1385168283}
 
 
 '
-karma: ! 'data: {"current":19847,"last":102390,"id":"karma","updatedAt":1384880478}
+karma: ! 'data: {"current":184470,"last":133840,"id":"karma","updatedAt":1385168283}
 
 
 '
-synergy: ! 'data: {"value":47,"id":"synergy","updatedAt":1384880478}
+synergy: ! 'data: {"value":71,"id":"synergy","updatedAt":1385168283}
 
 
 '
-convergence: ! 'data: {"points":[{"x":66,"y":19},{"x":67,"y":7},{"x":68,"y":47},{"x":69,"y":44},{"x":70,"y":39},{"x":71,"y":11},{"x":72,"y":18},{"x":73,"y":7},{"x":74,"y":43},{"x":75,"y":14}],"id":"convergence","updatedAt":1384880478}
+convergence: ! 'data: {"points":[{"x":55,"y":6},{"x":56,"y":4},{"x":57,"y":45},{"x":58,"y":26},{"x":59,"y":27},{"x":60,"y":41},{"x":61,"y":14},{"x":62,"y":32},{"x":63,"y":31},{"x":64,"y":4}],"id":"convergence","updatedAt":1385168283}
 
 
 '
-buzzwords: ! 'data: {"items":[{"label":"Paradigm shift","value":6},{"label":"Pivoting","value":7},{"label":"Web
-  2.0","value":6},{"label":"Enterprise","value":6},{"label":"Streamlininess","value":11},{"label":"Turn-key","value":9},{"label":"Leverage","value":8},{"label":"Exit
-  strategy","value":8},{"label":"Synergy","value":4}],"id":"buzzwords","updatedAt":1384880478}
+buzzwords: ! 'data: {"items":[{"label":"Turn-key","value":8},{"label":"Pivoting","value":10},{"label":"Synergy","value":5},{"label":"Paradigm
+  shift","value":6},{"label":"Exit strategy","value":6},{"label":"Web 2.0","value":5},{"label":"Leverage","value":3},{"label":"Streamlininess","value":5},{"label":"Enterprise","value":6}],"id":"buzzwords","updatedAt":1385168283}
 
 
 '
@@ -25,13 +24,15 @@ welcome: ! 'data: {"text":"Hello","id":"welcome","updatedAt":1384790695}
 
 
 '
-weather: ! 'data: {"temp":"44&deg;F","condition":"Fair","title":"East Providence Weather","climacon":"sun","id":"weather","updatedAt":1384880478}
+weather: ! 'data: {"temp":"49&deg;F","condition":"Cloudy","title":"East Providence
+  Weather","climacon":"cloud","id":"weather","updatedAt":1385168283}
 
 
 '
-forecast: ! 'data: {"current_temp":"44&deg;","current_icon":"clear-day","current_desc":"Clear","next_icon":"clear-day","next_desc":"Clear
-  for the hour.","later_icon":"partly-cloudy-day","later_desc":"Partly cloudy tomorrow
-  morning.","tom_icon":"partly-cloudy-night","tom_desc":"Partly cloudy overnight.","tom_high":"40&deg;","tom_low":"28&deg;","id":"forecast","updatedAt":1384880348}
+forecast: ! 'data: {"current_temp":"47&deg;","current_icon":"partly-cloudy-night","current_desc":"Mostly
+  Cloudy","next_icon":"partly-cloudy-night","next_desc":"Mostly cloudy for the hour.","later_icon":"partly-cloudy-night","later_desc":"Partly
+  cloudy until tomorrow afternoon.","tom_icon":"partly-cloudy-day","tom_desc":"Partly
+  cloudy until afternoon.","tom_high":"44&deg;","tom_low":"27&deg;","id":"forecast","updatedAt":1385168178}
 
 
 '
@@ -43,14 +44,15 @@ twitter_mentions: ! 'data: {"comments":[{"name":"RI Philharmonic","body":"@Projo
 
 
 '
-twitter_mentions-0: ! 'data: {"tweet":{"name":"RI Philharmonic","body":"@Projo had
-  some interesting thoughts, and some good and bad things to say.  Tweet back your
-  input\nhttp://t.co/5UcDDy3qAd","avatar":"https://pbs.twimg.com/profile_images/1268875645/clef_294_normal.JPG"},"id":"twitter_mentions-0","updatedAt":1384880478}
+twitter_mentions-0: ! 'data: {"tweet":{"name":"RI Philharmonic","body":"Yesterday
+  we started airing MESSIAH radio commercials in addition to our regular advertising...
+  Have you heard them?  Are they effective? RT","avatar":"https://pbs.twimg.com/profile_images/1268875645/clef_294_normal.JPG"},"id":"twitter_mentions-0","updatedAt":1385168281}
 
 
 '
-twitter_mentions-1: ! 'data: {"tweet":{"name":"RI Philharmonic","body":"http://t.co/tMhCSgRass
-  Vince Burks talks Amica Rush Hour concerts- Got your tickets yet?","avatar":"https://pbs.twimg.com/profile_images/1268875645/clef_294_normal.JPG"},"id":"twitter_mentions-1","updatedAt":1384880478}
+twitter_mentions-1: ! 'data: {"tweet":{"name":"RI Philharmonic","body":"MESSIAH is
+  coming up, Saturday December 7 @ 7pm.  When was the first time YOU saw MESSIAH performed?
+  http://t.co/dPlDXGWLVa","avatar":"https://pbs.twimg.com/profile_images/1268875645/clef_294_normal.JPG"},"id":"twitter_mentions-1","updatedAt":1385168281}
 
 
 '
@@ -70,7 +72,12 @@ twitter_mentions-2: ! 'data: {"comments":[{"name":"RI Philharmonic","body":"@Pro
 
 
 '
-calendar_events: ! 'data: {"events":[],"id":"calendar_events","updatedAt":1384880408}
+calendar_events: ! 'data: {"events":[],"id":"calendar_events","updatedAt":1385168235}
+
+
+'
+google_calendar_phil: ! 'data: {"events":[{"title":"Anthony Murgo","start":1387297800,"end":1387301400},{"title":"Anthony
+  Murgo","start":1387297800,"end":1387305000}],"id":"google_calendar_phil","updatedAt":1385168176}
 
 
 '

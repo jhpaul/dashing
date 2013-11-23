@@ -27,7 +27,7 @@ SCHEDULER.every '10m', :first_in => 0 do |job|
 			# puts content
 			when_node = e.at_xpath("./when")
 			where = content.split('Where: ').last
-			where.chomp!('<br />Even')
+			where.chomp!('<br />Event')
 			puts where
 			# puts when_node
 			events.push({title: title,

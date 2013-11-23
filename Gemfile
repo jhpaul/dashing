@@ -8,3 +8,5 @@ gem 'twitter'
 gem 'xml-simple'
 
 gem 'nokogiri'
+
+gem 'icalendar'
